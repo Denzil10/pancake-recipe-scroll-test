@@ -1,0 +1,482 @@
+[
+ {
+  "slug": "joyfoodsunshine",
+  "name": "JoyFoodSunshine",
+  "url": "https://joyfoodsunshine.com/best-pancake-recipe/",
+  "score": 82,
+  "screens": 19.05,
+  "words": 1083,
+  "overlays": 3,
+  "tp": 141,
+  "mb": 12.99,
+  "rng": {
+   "screens": [
+    18.98,
+    19.08
+   ],
+   "words": [
+    1081,
+    1086
+   ],
+   "overlays": [
+    3,
+    3
+   ],
+   "tp": [
+    132,
+    163
+   ],
+   "mb": [
+    12.07,
+    15.27
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "preppykitchen",
+  "name": "Preppy Kitchen",
+  "url": "https://preppykitchen.com/pancake-recipe/",
+  "score": 80,
+  "screens": 17.85,
+  "words": 1243,
+  "overlays": 3,
+  "tp": 110,
+  "mb": 13.53,
+  "rng": {
+   "screens": [
+    17.85,
+    18.21
+   ],
+   "words": [
+    1242,
+    1247
+   ],
+   "overlays": [
+    3,
+    3
+   ],
+   "tp": [
+    101,
+    140
+   ],
+   "mb": [
+    12.74,
+    19.1
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "handletheheat",
+  "name": "Handle the Heat",
+  "url": "https://handletheheat.com/best-pancake-recipe/",
+  "score": 79,
+  "screens": 11.45,
+  "words": 938,
+  "overlays": 3,
+  "tp": 148,
+  "mb": 19.31,
+  "rng": {
+   "screens": [
+    11.35,
+    11.59
+   ],
+   "words": [
+    933,
+    938
+   ],
+   "overlays": [
+    2,
+    3
+   ],
+   "tp": [
+    135,
+    151
+   ],
+   "mb": [
+    19.19,
+    25.57
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "thestayathomechef",
+  "name": "The Stay at Home Chef",
+  "url": "https://thestayathomechef.com/pancake-recipe/",
+  "score": 72,
+  "screens": 14.04,
+  "words": 905,
+  "overlays": 3,
+  "tp": 136,
+  "mb": 11.81,
+  "rng": {
+   "screens": [
+    14.04,
+    14.23
+   ],
+   "words": [
+    901,
+    905
+   ],
+   "overlays": [
+    2,
+    3
+   ],
+   "tp": [
+    117,
+    159
+   ],
+   "mb": [
+    10.93,
+    15.02
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "sallysbaking",
+  "name": "Sally's Baking",
+  "url": "https://sallysbakingaddiction.com/buttermilk-pancakes-recipe/",
+  "score": 60,
+  "screens": 17.31,
+  "words": 1246,
+  "overlays": 1,
+  "tp": 104,
+  "mb": 8.16,
+  "rng": {
+   "screens": [
+    17.31,
+    17.37
+   ],
+   "words": [
+    1246,
+    1246
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    83,
+    145
+   ],
+   "mb": [
+    7.68,
+    10.51
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "budgetbytes",
+  "name": "Budget Bytes",
+  "url": "https://www.budgetbytes.com/homemade-pancakes/",
+  "score": 59,
+  "screens": 7.93,
+  "words": 674,
+  "overlays": 2,
+  "tp": 151,
+  "mb": 12.83,
+  "rng": {
+   "screens": [
+    7.93,
+    7.93
+   ],
+   "words": [
+    671,
+    674
+   ],
+   "overlays": [
+    2,
+    2
+   ],
+   "tp": [
+    142,
+    162
+   ],
+   "mb": [
+    11.7,
+    14.67
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "inspiredtaste",
+  "name": "Inspired Taste",
+  "url": "https://www.inspiredtaste.net/24593/essential-pancake-recipe/",
+  "score": 58,
+  "screens": 15.94,
+  "words": 1569,
+  "overlays": 1,
+  "tp": 82,
+  "mb": 5.8,
+  "rng": {
+   "screens": [
+    15.93,
+    16.27
+   ],
+   "words": [
+    1569,
+    1569
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    70,
+    94
+   ],
+   "mb": [
+    5.57,
+    5.81
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "onceuponachef",
+  "name": "Once Upon a Chef",
+  "url": "https://www.onceuponachef.com/recipes/best-pancake-recipe.html",
+  "score": 53,
+  "screens": 10.77,
+  "words": 673,
+  "overlays": 1,
+  "tp": 97,
+  "mb": 16.44,
+  "rng": {
+   "screens": [
+    10.77,
+    10.84
+   ],
+   "words": [
+    673,
+    674
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    79,
+    98
+   ],
+   "mb": [
+    15.77,
+    20.49
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "tasty",
+  "name": "Tasty",
+  "url": "https://tasty.co/recipe/tasty-101-buttermilk-pancakes",
+  "score": 46,
+  "screens": 1.58,
+  "words": 119,
+  "overlays": 2,
+  "tp": 197,
+  "mb": 9.49,
+  "rng": {
+   "screens": [
+    1.57,
+    1.67
+   ],
+   "words": [
+    119,
+    119
+   ],
+   "overlays": [
+    2,
+    2
+   ],
+   "tp": [
+    189,
+    210
+   ],
+   "mb": [
+    9.45,
+    10.06
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "bbcgoodfood",
+  "name": "BBC Good Food",
+  "url": "https://www.bbcgoodfood.com/recipes/american-pancakes",
+  "score": 45,
+  "screens": 3.54,
+  "words": 491,
+  "overlays": 1,
+  "tp": 179,
+  "mb": 9.61,
+  "rng": {
+   "screens": [
+    3.04,
+    3.78
+   ],
+   "words": [
+    463,
+    491
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    154,
+    185
+   ],
+   "mb": [
+    8.94,
+    9.82
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "allrecipes",
+  "name": "Allrecipes",
+  "url": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+  "score": 42,
+  "screens": 6.53,
+  "words": 647,
+  "overlays": 1,
+  "tp": 119,
+  "mb": 7.99,
+  "rng": {
+   "screens": [
+    6.53,
+    6.53
+   ],
+   "words": [
+    647,
+    647
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    103,
+    126
+   ],
+   "mb": [
+    7.0,
+    8.32
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "bettycrocker",
+  "name": "Betty Crocker",
+  "url": "https://www.bettycrocker.com/recipes/fluffy-homemade-pancakes/77a89da1-fd56-494b-874a-55f9195c1413",
+  "score": 35,
+  "screens": 8.51,
+  "words": 1027,
+  "overlays": 1,
+  "tp": 7,
+  "mb": 4.94,
+  "rng": {
+   "screens": [
+    8.51,
+    8.51
+   ],
+   "words": [
+    1027,
+    1027
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    7,
+    7
+   ],
+   "mb": [
+    4.94,
+    4.94
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "foodnetwork",
+  "name": "Food Network",
+  "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/pancakes-recipe-1913844",
+  "score": 28,
+  "screens": 6.25,
+  "words": 873,
+  "overlays": 0,
+  "tp": 68,
+  "mb": 3.37,
+  "rng": {
+   "screens": [
+    6.25,
+    6.25
+   ],
+   "words": [
+    873,
+    873
+   ],
+   "overlays": [
+    0,
+    0
+   ],
+   "tp": [
+    68,
+    76
+   ],
+   "mb": [
+    3.29,
+    3.37
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "kingarthur",
+  "name": "King Arthur Baking",
+  "url": "https://www.kingarthurbaking.com/recipes/simply-perfect-pancakes-recipe",
+  "score": 22,
+  "screens": 2.39,
+  "words": 236,
+  "overlays": 1,
+  "tp": 37,
+  "mb": 5.42,
+  "rng": {
+   "screens": [
+    2.39,
+    2.39
+   ],
+   "words": [
+    236,
+    236
+   ],
+   "overlays": [
+    1,
+    1
+   ],
+   "tp": [
+    37,
+    37
+   ],
+   "mb": [
+    5.42,
+    5.42
+   ]
+  },
+  "n": 3
+ },
+ {
+  "slug": "thekitchn",
+  "blocked": "HTTP 403 - Access to this page has been denied."
+ }
+]

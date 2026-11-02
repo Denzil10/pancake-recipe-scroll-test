@@ -1,0 +1,75 @@
+{
+ "slug": "bettycrocker",
+ "run": 2,
+ "url": "https://www.bettycrocker.com/recipes/fluffy-homemade-pancakes/77a89da1-fd56-494b-874a-55f9195c1413",
+ "site": "bettycrocker.com",
+ "started": "2026-11-03 00:40:03",
+ "status": 200,
+ "final_url": "https://www.bettycrocker.com/recipes/fluffy-homemade-pancakes/77a89da1-fd56-494b-874a-55f9195c1413",
+ "title": "Fluffy Homemade Pancakes Recipe | Betty Crocker",
+ "blocked": false,
+ "body_head": "Skip to main content\nSign Up\nLog In\nMega Nav\nWhat do you want to search ?\nSearch\nRecipes\nHolidays + Celebrations\nHow-To\nProducts\nLet's Get Making\nShop\n(Opens in a new tab)\nHarry Potter\nHome\nRecipes\nPancake, Waffle and Crepe Recipes\nKitchen Tested\nFluffy Homemade Pancakes\n4.1\n(69)\nWrite a review\nAsk a question\nIngredients:7\nServings:9\nSave\nJump to Recipe\nBetty Crocker Kitchens\n(Opens in a new tab)\n",
+ "consent_clicked": null,
+ "scroll_steps": 51,
+ "page_height_px": 29256,
+ "jsonld_first_ingredient": "1 egg",
+ "ingredients": {
+  "top": 7184.015625,
+  "count": 7,
+  "firstText": "1 egg",
+  "containerTag": "UL.RecipeIngredients_ingredientList__vHtXF",
+  "screens": 8.51,
+  "words_before": 1027
+ },
+ "session_seconds": 53.4,
+ "bytes": 4941974,
+ "mb_by_domain": {
+  "bettycrocker.com": 3.83,
+  "bazaarvoice.com": 0.68,
+  "cookielaw.org": 0.22,
+  "googletagmanager.com": 0.2,
+  "sitecorecloud.io": 0.01,
+  "trustarc.com": 0.0,
+  "onetrust.com": 0.0
+ },
+ "mb_by_type": {
+  "script": 2.11,
+  "fetch": 1.31,
+  "image": 0.72,
+  "font": 0.61,
+  "stylesheet": 0.09,
+  "document": 0.09,
+  "xhr": 0.0,
+  "other": 0.0
+ },
+ "mb": 4.94,
+ "requests": 208,
+ "third_party_domains": {
+  "bazaarvoice.com": 115,
+  "cookielaw.org": 7,
+  "sitecorecloud.io": 4,
+  "googletagmanager.com": 1,
+  "ytimg.com": 1,
+  "onetrust.com": 1,
+  "trustarc.com": 1
+ },
+ "third_party_count": 7,
+ "overlays": [
+  {
+   "sig": "DIV#onetrust-banner-sdk.otFlat.bottom.ot-wo-title",
+   "kind": "consent",
+   "pos": "fixed",
+   "top": 574,
+   "h": 270,
+   "w": 390,
+   "frac": 0.32,
+   "header": false,
+   "text": "We and our partners use technology, including cookies, to view and retain your s",
+   "phase": "on arrival",
+   "parts": [
+    "DIV#onetrust-banner-sdk.otFlat.bottom.ot-wo-title"
+   ]
+  }
+ ],
+ "overlay_count": 1
+}
